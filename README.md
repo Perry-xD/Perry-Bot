@@ -3,6 +3,7 @@
 
 [![Deploy](https://telegra.ph/file/259e04a1d6591c6e1e944.jpg)](https://heroku.com/deploy?template=https://github.com/perry-xd/perry-bot)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fperry-xd%2Fperry-userbot&envs=APP_ID%2CAPI_HASH%2CSTRING_SESSION%2CBOT_TOKEN%2CBOT_USERNAME%2CPRIVATE_GROUP_ID%2CPRIVATE_GROUP_BOT_API_ID%2CPLUGIN_CHANNEL%2CPM_LOGGR_BOT_API_ID&referralCode=UF7LDt)
 ------------------------------------------------
 ## 𝚁𝙴𝙿𝙻 :
 
