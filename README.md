@@ -1,7 +1,7 @@
 
 ## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
 
-[![Deploy](https://telegra.ph/file/259e04a1d6591c6e1e944.jpg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/DEADLY-OP-BOT)
+[![Deploy](https://telegra.ph/file/259e04a1d6591c6e1e944.jpg)](https://heroku.com/deploy?template=https://github.com/perry-xd/perry-bot)
 
 ------------------------------------------------
 ## 𝚁𝙴𝙿𝙻 :
